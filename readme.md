@@ -23,7 +23,7 @@ CI BASE DEVELOPMENT SYSTEM merupakan sebuah aplikasi mendasar dalam mengembangka
 ### CARA PENGINSTALAN
 - Copy kan folder ini kedalam root folder server
 - Edit Database username, password, Server, dan Databasename di folder config/database.php
-- Kemudian akses di browser http://webname atau bagi yang menggunakannya di localhost bisa akses di http://localhost/ci-base/
+- Kemudian akses di browser http://webname atau bagi yang menggunakannya di localhost bisa akses di http://localhost/ci-base-development-system/
 
 ### Default Login
 admin - email : admin@admin.com; password : admin
